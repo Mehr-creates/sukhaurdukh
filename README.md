@@ -20,23 +20,14 @@ To get started with this project, you'll need to set it up locally:
 1. Clone the repository:
 git clone https://github.com/mehr-creates/sukhaurdukh.git
 
-css
-Copy code
 2. Navigate to the project directory:
 cd sukhaurdukh
 
-css
-Copy code
 3. Install dependencies (assuming a Node.js based project):
 npm install
 
-markdown
-Copy code
 4. Run the application locally:
 npm start
-
-python
-Copy code
 
 ## Contributing
 
@@ -50,4 +41,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support with using the SukhaurDukh platform or any inquiries regarding collaboration, please open an issue in this repository.
 
-Thank you for visiting the SukhaurDukh repository and supporting our mission to improve mental health acc
+Thank you for visiting the SukhaurDukh repository and supporting our mission to improve mental health accessibility!
+
