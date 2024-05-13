@@ -1,45 +1,30 @@
-# SukhaurDukh
+# Sukhaurdukh
 
-Welcome to the SukhaurDukh project repository! This project is dedicated to providing a comprehensive online mental health helpline, accessible to everyone at no cost. Our platform is designed to offer professional counseling, community support, and a wealth of resources to help individuals manage emotional and psychological challenges.
+Welcome to Sukhaurdukh! This repository contains the source code for the Sukhaurdukh website.
 
-## Continuous Integration (CI) Workflow
+## Description
 
-This repository includes a CI workflow, defined in the `ci-workflow.yml` file, that automates the process of integrating changes to the codebase. The workflow is triggered on pushes and pull requests to the main branch, ensuring that all contributions are built and tested according to predefined criteria before integration.
+Sukhaurdukh is a platform dedicated to providing support and resources for mental health and well-being. Our mission is to create a safe space where individuals can find comfort, guidance, and community support.
 
-### Key Features of CI Workflow:
-- **Automated Testing and Building:** Ensures that every push or pull request to the main branch is automatically tested and built.
-- **Merge Request Validation:** Confirms that all merge requests meet the necessary criteria for testing and building before they are integrated into the main branch.
-- **Manual Triggers:** Allows the workflow to be triggered manually through the GitHub Actions tab for additional flexibility.
+## Accessing the Website
 
-The CI workflow uses the latest Ubuntu runner and performs initial setup tasks, including echoing a welcome message and setting the stage for further build, test, and deployment processes.
-
-## Getting Started
-
-To get started with this project, you'll need to set it up locally:
-
-1. Clone the repository:
-git clone https://github.com/mehr-creates/sukhaurdukh.git
-
-2. Navigate to the project directory:
-cd sukhaurdukh
-
-3. Install dependencies (assuming a Node.js based project):
-npm install
-
-4. Run the application locally:
-npm start
+The Sukhaurdukh website is live and accessible at [sukhaurdukh.com](https://sukhaurdukh.com). 
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and submit a pull request, or create an issue with your ideas or bugs you've found.
+We welcome contributions from the community to help improve Sukhaurdukh. If you're interested in contributing, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Create a new Pull Request.
+
+## Feedback
+
+We value your feedback! If you have any suggestions, ideas, or encounter any issues with the Sukhaurdukh website, please don't hesitate to [open an issue](https://github.com/yourusername/sukhaurdukh/issues) or [contact us](mailto:contact@sukhaurdukh.com).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support with using the SukhaurDukh platform or any inquiries regarding collaboration, please open an issue in this repository.
-
-Thank you for visiting the SukhaurDukh repository and supporting our mission to improve mental health accessibility!
-
+This project is licensed under the [MIT License](LICENSE).
