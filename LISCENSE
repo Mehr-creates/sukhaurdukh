@@ -1,0 +1,49 @@
+MIT License
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+VERSION: 1.0
+VERSION DATE: May 12, 2024
+LICENSE SITE: https://opensource.org/licenses/MIT
+
+Copyright (c) 2024 MehrChawla
+
+Software: "sukhaurdukh"
+
+Definitions:
+
+"Software" refers to the code, libraries, and associated documentation files for "sukhaurdukh".
+"Use" refers to the act of utilizing the Software for any purpose, including but not limited to executing, running, or interacting with the Software.
+"Reproduction" refers to the act of making copies, duplicates, or reproductions of the Software.
+"Distribution" refers to the act of making the Software available to third parties in any form.
+Submission of Contributions:
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the Software by you shall be under the terms and conditions of the MIT License without any additional terms or conditions.
+
+Patent Grant:
+The Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by such Licensor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Software to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software, or a Contribution incorporated within the Software, constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Software shall terminate as of the date such litigation is filed.
+
+Trademarks:
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Software.
+
+Disclaimer of Warranty:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Limitation of Liability:
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Accepting Warranty or Additional Liability:
+While redistributing the Software or its derivatives, you may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, you may act only on your own behalf and on your sole responsibility, not on behalf of any other Contributor, and only if you agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+Notices:
+Any notices required or permitted to be given under this License shall be in writing and shall be deemed to have been given if delivered personally or sent by prepaid registered post, or sent by facsimile or electronic mail, to the party concerned at its address as specified herein or such other address as may be notified by either party to the other from time to time.
+
+Future Updates:
+The Licensor reserves the right to update or modify this License at any time without prior notice, with the updated version being applicable to all future uses, reproductions, and distributions of the Software.
+
+Contributor License Agreement (CLA):
+By contributing to this project, you agree to the terms of the Contributor License Agreement found in the CONTRIBUTING.md file of this repository.
+
+Additional Permissions:
+None specified.
+
+This License shall be governed by and construed in accordance with the laws of MIT, excluding its conflict of law provisions. Any dispute or claim arising out of or in connection with this License shall be resolved exclusively by the courts of MIT.
